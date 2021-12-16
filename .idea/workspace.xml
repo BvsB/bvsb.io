@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="703f7c7c-df25-4f23-8bf9-fac4e7bdb340" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +31,21 @@
       <option name="presentableId" value="Default" />
       <updated>1638732882717</updated>
       <workItem from="1638732883875" duration="161000" />
-      <workItem from="1639690413553" duration="304000" />
+      <workItem from="1639690413553" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="670" y="252" width="579" height="558" key="find.popup" timestamp="1639690568130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="252" width="579" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639690568130" />
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1639690759571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639690759571" />
   </component>
 </project>
